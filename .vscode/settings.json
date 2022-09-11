@@ -1,0 +1,9 @@
+{
+  "material-icon-theme.files.associations": {
+    "launch.json": "vscode",
+    "settings.json": "vscode",
+  },
+  "material-icon-theme.folders.associations": {
+    "cars": "resource",
+  }
+}
