@@ -1,12 +1,12 @@
 {
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
   "material-icon-theme.files.associations": {
     "launch.json": "vscode",
-    "settings.json": "vscode",
+    "settings.json": "vscode"
   },
   "material-icon-theme.folders.associations": {
-    "cars": "resource",
+    "cars": "resource"
   },
-  "cSpell.words": [
-    "rentx"
-  ]
+  "cSpell.words": ["rentx"]
 }
