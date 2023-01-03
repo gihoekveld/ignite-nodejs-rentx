@@ -5,12 +5,12 @@ import "reflect-metadata";
 
 import "@shared/container";
 import { AppError } from "@shared/errors/AppError";
+import createConnection from "@shared/infra/typeorm";
 
 import swaggerFile from "../../../swagger.json";
 import { router } from "./routes";
 
-import "@shared/infra/typeorm";
-
+createConnection();
 const app = express();
 
 app.use(express.json());
