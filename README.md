@@ -6,18 +6,18 @@
 
 **RN**
 
-[x] Não deve ser possível cadastrar um carro com uma placa já existente.
-[x] O carro deve ser cadastrado, por padrão, com disponibilidade.
-[x] O usuário responsável pelo cadastro deve ser um usuário administrador.
+[x] Não deve ser possível cadastrar um carro com uma placa já existente.<br/>
+[x] O carro deve ser cadastrado, por padrão, com disponibilidade.<br/>
+[x] O usuário responsável pelo cadastro deve ser um usuário administrador.<br/>
 
 # Listagem de carros
 
 **RF**
 
-[x] Deve ser possivel listar todos os carros disponíveis.
-[x] Deve ser possivel listar todos os carros disponíveis pelo nome da categoria.
-[x] Deve ser possivel listar todos os carros disponíveis pelo nome da marca.
-[x] Deve ser possivel listar todos os carros disponíveis pelo nome do carro.
+[x] Deve ser possivel listar todos os carros disponíveis.<br/>
+[x] Deve ser possivel listar todos os carros disponíveis pelo nome da categoria.<br/>
+[x] Deve ser possivel listar todos os carros disponíveis pelo nome da marca.<br/>
+[x] Deve ser possivel listar todos os carros disponíveis pelo nome do carro.<br/>
 
 **RN**
 
@@ -31,9 +31,9 @@
 
 **RN**
 
-[x] Não deve ser possível cadastrar uma especificação para um carro não cadastrado.
-[x] Não deve ser possível cadastrar uma especificação já existente para o mesmo carro.
-[x] O usuário responsável pelo cadastro deve ser um usuário administrador.
+[x] Não deve ser possível cadastrar uma especificação para um carro não cadastrado.<br/>
+[x] Não deve ser possível cadastrar uma especificação já existente para o mesmo carro.<br/>
+[x] O usuário responsável pelo cadastro deve ser um usuário administrador.<br/>
 
 # Cadastro de imagens do carro
 
@@ -47,8 +47,8 @@
 
 **RN**
 
-[x] O usuário deve poder cadastrar mais de uma imagem para o mesmo carro.
-[x] O usuário responsável pelo cadastro deve ser um usuário administrador.
+[x] O usuário deve poder cadastrar mais de uma imagem para o mesmo carro.<br/>
+[x] O usuário responsável pelo cadastro deve ser um usuário administrador.<br/>
 
 # Aluguel de carro
 
@@ -58,8 +58,8 @@
 
 **RN**
 
-[x] O aluguel deve ter duração mínima de 24 horas.
-[x] Não deve ser possível cadastrar um novo aluguel caso já exista um aberto para o mesmo usuário.
-[x] Não deve ser possível cadastrar um novo aluguel caso já exista um aberto para o mesmo carro.
-[x] O usuário deve estar logado na aplicação.
-[x] Ao realizar um aluguel, o status do carro deverá ser alterado para indisponível.
+[x] O aluguel deve ter duração mínima de 24 horas.<br/>
+[x] Não deve ser possível cadastrar um novo aluguel caso já exista um aberto para o mesmo usuário.<br/>
+[x] Não deve ser possível cadastrar um novo aluguel caso já exista um aberto para o mesmo carro.<br/>
+[x] O usuário deve estar logado na aplicação.<br/>
+[x] Ao realizar um aluguel, o status do carro deverá ser alterado para indisponível.<br/>
